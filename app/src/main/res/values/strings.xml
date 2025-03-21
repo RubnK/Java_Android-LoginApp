@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dev2</string>
+    <string name="welcome">Bienvenue, %1$s !</string>
+    <string name="logout">Se déconnecter</string>
+
+    <!-- Login -->
+    <string name="login_title">Connexion</string>
+    <string name="login_button">Se connecter</string>
+    <string name="register_redirect">Créer un compte</string>
+    <string name="login_hint">Nom d\'utilisateur</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="error_user_not_found">Nom d\'utilisateur inexistant</string>
+    <string name="error_wrong_password">Mot de passe incorrect</string>
+
+    <!-- Register -->
+    <string name="register_title">Inscription</string>
+    <string name="register_button">S\'inscrire</string>
+    <string name="error_empty_fields">Veuillez remplir tous les champs</string>
+    <string name="error_user_exists">Nom d\'utilisateur déjà pris</string>
+    <string name="success_registration">Inscription réussie !</string>
+    <string name="login_redirect">Déjà un compte</string>
+</resources>
